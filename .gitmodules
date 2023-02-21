@@ -1,3 +1,6 @@
 [submodule "ansible-template"]
 	path = ansible-template
 	url = https://github.com/adeadejo/ansible-template.git
+[submodule "maven-web-app"]
+	path = maven-web-app
+	url = https://github.com/adeadejo/maven-web-app.git
