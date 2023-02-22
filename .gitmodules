@@ -4,3 +4,6 @@
 [submodule "maven-web-app"]
 	path = maven-web-app
 	url = https://github.com/adeadejo/maven-web-app.git
+[submodule "gitaction-test"]
+	path = gitaction-test
+	url = https://github.com/adeadejo/gitaction-test.git
